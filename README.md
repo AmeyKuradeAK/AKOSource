@@ -15,6 +15,8 @@ This project is used by the following Developers:
 
 **Languages:** HTML, CSS, JS
 
+# Basics
+Add these basic items in your code given below
 ## Add These Items in HTML file
 
 ```html
