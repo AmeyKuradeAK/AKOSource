@@ -57,4 +57,4 @@ extra JS embeddings
 
 # Attractive Navbars
 
-![ScreenShot](./Navbars/pics/Nav_1.png=100x20)
+![ScreenShot](./Navbars/pics/Nav_1.png =100x20)
