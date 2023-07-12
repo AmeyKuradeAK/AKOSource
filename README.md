@@ -59,6 +59,7 @@ extra JS embeddings
 
 # Attractive Navbars
 
+## Complete Navbar
 <img src="./Navbars/pics/Nav_1.png" />
 
 > Note: <br>
