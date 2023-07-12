@@ -57,4 +57,4 @@ extra JS embeddings
 
 # Attractive Navbars
 
-<img src="./Navbars/pics/Nav_1.png" width="100" height="500" />
+<img src="./Navbars/pics/Nav_1.png" width="500" height="100" />
