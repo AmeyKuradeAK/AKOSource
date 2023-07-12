@@ -57,4 +57,4 @@ extra JS embeddings
 
 # Attractive Navbars
 
-![ScreenShot](./Navbars/pics/Nav_1.png =100x20)
+<img src="./Navbars/pics/Nav_1.png" width="100" height="100" />
