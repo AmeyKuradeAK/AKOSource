@@ -65,4 +65,4 @@ extra JS embeddings
 > Just use the code in green comment as (Use this code only) <br>
 > Also see the 2nd comment and read it carefully
 
-[Click for code](./Navbars/Navbar.html)
+[Click for code](./Navbars/Navbar_1.html)
