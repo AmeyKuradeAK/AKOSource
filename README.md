@@ -61,7 +61,7 @@ extra JS embeddings
 
 <img src="./Navbars/pics/Nav_1.png" />
 
-> Note:
+> Note: <br>
 > Just use the code in green comment as (Use this code only) <br>
 > Also see the 2nd comment and read it carefully
 
