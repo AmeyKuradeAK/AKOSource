@@ -65,6 +65,8 @@ extra JS embeddings
 > Note: <br>
 > Just use the code in green comment as (Use this code only) <br>
 > Also see the 2nd comment and read it carefully
-> For changing colour use `data-bs-theme="dark"` after the (class="" data-bs-theme="dark") dark or white or color codes like (class="" style="background-color: #e3f2fd;")
+>
+>Note:
+> For changing colour use `data-bs-theme="dark"` after the `(class="" data-bs-theme="dark")` dark or white or color codes like `(class="" style="background-color: #e3f2fd;")`
 
 [Click for code](./Navbars/Navbar_1.html)
