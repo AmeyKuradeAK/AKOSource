@@ -70,3 +70,14 @@ extra JS embeddings
 > For changing colour use `data-bs-theme="dark"` after the `class="" data-bs-theme="dark"` dark or white or color codes like `class="" style="background-color: #e3f2fd;"`
 
 [Click for code](./Navbars/Navbar_1.html)
+
+## Brand
+Here the brand name or logo will be shown
+
+### Text
+<img src="../AKOSource/Navbars/pics/Nav_2_text.png" />
+
+> Note: <br>
+> Just use the code in green comment as (Use this code only) <br>
+
+[Click for code](../AKOSource/Navbars/Navbar_2_brandtext.html)
