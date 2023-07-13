@@ -84,9 +84,9 @@ Here the brand name or logo will be shown
 
 
 
-# Related
+# Reference
 
-Here are some related projects
+Here are some Reference
 
 [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 
