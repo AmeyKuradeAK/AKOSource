@@ -122,3 +122,12 @@ Here the brand name or logo will be shown
 > Just use the code in green comment as (Use this code only) <br>
 
 [Click for code](./Accordians/flush.html)
+
+## Always Open
+
+<img src="./Accordians/Pics/Always_Open.png" />
+
+> Note: <br>
+> Just use the code in green comment as (Use this code only) <br>
+
+[Click for code](./Accordians/Always%20Open.html)
