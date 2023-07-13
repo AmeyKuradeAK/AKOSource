@@ -75,9 +75,9 @@ extra JS embeddings
 Here the brand name or logo will be shown
 
 ### Text
-<img src="./AKOSource/Navbars/pics/Nav_2_text.png" />
+<img src="./Navbars/pics/Nav_2_text.png" />
 
 > Note: <br>
 > Just use the code in green comment as (Use this code only) <br>
 
-[Click for code](./AKOSource/Navbars/Navbar_2_brandtext.html)
+[Click for code](./Navbars/Navbar_2_brandtext.html)
