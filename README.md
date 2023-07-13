@@ -82,7 +82,13 @@ Here the brand name or logo will be shown
 
 [Click for code](./Navbars/Navbar_2_brandtext.html)
 
+### Image
+<img src="./Navbars/pics/Nav_2_img.png" />
 
+> Note: <br>
+> Just use the code in green comment as (Use this code only) <br>
+
+[Click for code](./Navbars/Navbar_2_brandimg.html)
 
 # Reference
 
