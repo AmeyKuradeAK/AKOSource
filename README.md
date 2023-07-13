@@ -81,3 +81,12 @@ Here the brand name or logo will be shown
 > Just use the code in green comment as (Use this code only) <br>
 
 [Click for code](./Navbars/Navbar_2_brandtext.html)
+
+
+
+# Related
+
+Here are some related projects
+
+[Awesome README](https://github.com/matiassingers/awesome-readme)
+
