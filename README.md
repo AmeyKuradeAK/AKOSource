@@ -4,7 +4,7 @@ Hey Mates! Welcome to **AKOSource**. It's an **Open Source** project made for we
 
 Let's get started with a new journey to Open-Source. Help us with your codes.
 
-[**See Reference for good understanding of this repository**](./README.md#Reference)
+[**See Reference for good understanding of this repository**](#Reference)
 ## Used By
 
 This project is used by the following Developers:
