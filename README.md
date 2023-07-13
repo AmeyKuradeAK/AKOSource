@@ -88,5 +88,5 @@ Here the brand name or logo will be shown
 
 Here are some related projects
 
-[Awesome README](https://github.com/matiassingers/awesome-readme)
+[Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 
