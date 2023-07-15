@@ -131,3 +131,14 @@ Here the brand name or logo will be shown
 > Just use the code in green comment as (Use this code only) <br>
 
 [Click for code](./Accordians/Always%20Open.html)
+
+# Breadcrumb
+Indicate the current page’s location within a navigational hierarchy that automatically adds separators via CSS.
+
+## Dividers
+<img src="./Breadcrumb/Pics/Dividers.png" />
+
+> Note: <br>
+> Just use the code in green comment as (Use this code only) <br>
+
+[Click for code](./Breadcrumb/dividers.html)
