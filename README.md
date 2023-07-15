@@ -142,3 +142,22 @@ Indicate the current page’s location within a navigational hierarchy that auto
 > Just use the code in green comment as (Use this code only) <br>
 
 [Click for code](./Breadcrumb/dividers.html)
+
+# Buttons
+Use custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.
+
+## Base class
+<img src="./Buttons/pics/Base_Class.png" />
+
+> Note: <br>
+> Just use the code in green comment as (Use this code only) <br>
+
+[Click for code](./Buttons/base_class.html)
+
+## Variants
+<img src="./Buttons/pics/Variants.png" />
+
+> Note: <br>
+> Just use the code in green comment as (Use this code only) <br>
+
+[Click for code](./Buttons/variant.html)
