@@ -161,3 +161,29 @@ Use custom button styles for actions in forms, dialogs, and more with support fo
 > Just use the code in green comment as (Use this code only) <br>
 
 [Click for code](./Buttons/variant.html)
+
+# Close Buttons
+
+## Example
+<img src="./Close-Buttons/pics/exm-clbtn.png" />
+
+> Note: <br>
+> Just use the code in green comment as (Use this code only) <br>
+
+[Click for code](./Close-Buttons/main-clbtn.html)
+
+## Disabled State
+<img src="./Close-Buttons/pics/Disabled.png" />
+
+> Note: <br>
+> Just use the code in green comment as (Use this code only) <br>
+
+[Click for code](./Close-Buttons/disabled.html)
+
+## Dark Variant (Main as well as Disabled)
+<img src="./Close-Buttons/pics/dark.png" />
+
+> Note: <br>
+> Just use the code in green comment as (Use this code only) <br>
+
+[Click for code](./Close-Buttons/dark.html)
